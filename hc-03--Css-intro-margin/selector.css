@@ -1,0 +1,26 @@
+/* Element secici */
+* {
+  background-color: bisque;
+  font-size: 25px;
+}
+h1 {
+  background-color: rgb(217, 133, 232);
+  padding: 10px;
+  border: 2px solid rgb(46, 17, 150);
+}
+/* class secici her elemente birden fazla class verilebilir birde fazla elemente ayni class verilebilir */
+.box {
+  width: 200px;
+  background-color: lightcoral;
+  padding: 20px;
+  margin: 10px;
+}
+
+/* sonradan verdigimiz icin box i ezdi  */
+.small_box {
+  background-color: blue;
+}
+
+#idSecici {
+  background-color: rgb(202, 163, 238);
+}
